@@ -5,7 +5,7 @@
 <img align="right" width="400" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stadia03&label=Profile%20views&color=0e75b6&style=flat" alt="stadia03" /> </p>
 
-- 🔭 I’m currently working on **dApp Ethereum app**
+- 🔭 I’m currently working on **dApp using EVM solidity compiler**
 
 - 👨‍💻 All of my projects are available at [https://gaurab.in/](https://gaurab.in/)
 
