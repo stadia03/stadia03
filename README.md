@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurab Das</h1>
 <h3 align="center">Full stack Web Developer & a worthy coder.</h3>
 <img align="right" width="400" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stadia03&label=Profile%20views&color=0e75b6&style=flat" alt="stadia03" /> </p>
+
 
 - 🔭 I’m currently exploring **dApp using EVM solidity compiler**
 
